@@ -1,0 +1,16 @@
+# Libraries
+libs/*
+!libs/*.lib
+
+# Build output
+/build/
+/scripts/__pycache__
+
+# Exports
+.mtbLaunchConfigs/
+.settings/
+.cproject
+.project
+
+# Misc
+/.vscode/
